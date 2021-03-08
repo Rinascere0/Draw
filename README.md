@@ -17,4 +17,4 @@ Middle mouse button: Choose
 Right mouse button: Cancel
 
 ## Preview
-![Image text](https://i.imgur.com/6GXMXLp.png)
+![Image text](https://i.imgur.com/bt6vO0I.png)
